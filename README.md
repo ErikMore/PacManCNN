@@ -2,7 +2,7 @@
 
 This project implements a Deep Convolutional Q-Learning Network (DCQN) to train an AI agent to play the classic Pac-Man game. The agent utilizes reinforcement learning and leverages convolutional neural networks to process visual input and make decisions in real time.
 
-**Table of Contents** \
+**Table of Contents**
 1. Requirements
 2. Installation
 3. Creating the Architecture of the Neural Network
